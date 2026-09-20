@@ -1,0 +1,10 @@
+square,model,train_seconds,inference_seconds,ms_per_prediction
+5161,seasonal_arimax,9.49,0.084,0.083
+5161,lstm,23.69,0.042,0.042
+5161,tcn,44.87,0.081,0.08
+5059,seasonal_arimax,9.9,0.08,0.079
+5059,lstm,20.49,0.043,0.043
+5059,tcn,33.14,0.074,0.073
+5259,seasonal_arimax,8.89,0.078,0.078
+5259,lstm,24.27,0.042,0.041
+5259,tcn,65.21,0.073,0.073

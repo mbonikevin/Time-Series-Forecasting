@@ -1,0 +1,6 @@
+stage,megabytes
+raw text on disk,20804.803507
+"naive one day, all columns",378.806916
+"naive projected, 62 days",23486.028792
+optimised peak rss,651.218944
+optimised matrix in memory,357.12
